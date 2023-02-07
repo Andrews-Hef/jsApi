@@ -1,0 +1,22 @@
+{
+    "eleves" : [
+        {
+            "id": 0,
+            "lastname" : "Bissor",
+            "firstname" : "Melvin",
+            "classe" : "X-MAS-DEV-4-2"
+        },
+        {
+            "id": 1,
+            "lastname" : "Ouaki",
+            "firstname" : "Valentin",
+            "classe" : "X-MAS-DEV-4-1"
+        },
+        {
+            "id": 2,
+            "lastname" : "Achache",
+            "firstname" : "Dan",
+            "classe" : "X-MAS-DEV-5-2"
+        }
+    ]
+}
